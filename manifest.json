@@ -17,6 +17,14 @@
       "description": "A guided, systematic process to clear your email inbox based on the GTD methodology.",
       "isProTemplate": true,
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
-    }
+    },
+    {
+  "id": "playbook-hiit-energy-001",
+  "title": "7-Minute HIIT Energy Booster",
+  "category": "Wellness",
+  "iconName": "💥",
+  "description": "A quick, adaptive high-intensity workout that adjusts to your energy level for the day.",
+  "url": "PASTE_YOUR_RAW_URL_HERE"
+}
   ]
 }
