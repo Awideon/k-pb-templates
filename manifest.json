@@ -17,15 +17,15 @@
       "description": "A guided, systematic process to clear your email inbox based on the GTD methodology.",
       "isProTemplate": true,
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
-    },
-    {
+    },    
+       {
   "id": "playbook-hiit-energy-001",
   "title": "7-Minute HIIT Energy Booster",
   "category": "Wellness",
   "iconName": "💥",
   "description": "A quick, adaptive high-intensity workout that adjusts to your energy level for the day.",
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/hiit-energy-booster.json"
-},
+}, 
 {
   "id": "playbook-mindful-morning-002",
   "title": "Mindful Morning Reset",
@@ -42,13 +42,21 @@
   "description": "A calming, adaptive nighttime ritual that helps you release stress, stretch, and prepare for deep sleep.",
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/sleep-winddown-routine.json"
 },
-    {
+{
+  "id": "playbook-midday-recharge-004",
+  "title": "Midday Recharge Break",
+  "category": "Wellness",
+  "iconName": "🌤",
+  "description": "A quick midday reset to refresh your energy, posture, and focus in under 10 minutes — perfect for the afternoon slump.",
+  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/midday-recharge-break.json"
+},    
+ {
   "id": "template-monthly-bill-checkup-001",
   "title": "Monthly Bill & Subscription Check-Up",
   "category": "Life Admin",
   "iconName": "💳",
   "description": "Review your bills and subscriptions, spot unnecessary charges, and clean up your recurring expenses.",
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/monthly-bill-checkup.json"
-}
+}   
   ]
 }
