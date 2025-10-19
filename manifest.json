@@ -16,7 +16,7 @@
       "iconName": "📨",
       "description": "A guided, systematic process to clear your email inbox based on the GTD methodology.",
       "isProTemplate": true,
-      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/main/workflows/inbox-zero-workflow.json"
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
     }
   ]
 }
