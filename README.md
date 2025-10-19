@@ -1,2 +1,2 @@
-# kyt-playbook-templates
-A headless CMS for Kyt app's playbook templates. This public repository serves as the backend, providing a manifest.json and individual playbook definitions for the app's online template browser.
+# k-pb-templates
+A headless CMS for K app's pb templates. This public repository serves as the backend, providing a manifest.json and individual pb definitions for the app's online template browser.
