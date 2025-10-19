@@ -50,6 +50,14 @@
   "description": "A quick midday reset to refresh your energy, posture, and focus in under 10 minutes — perfect for the afternoon slump.",
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/midday-recharge-break.json"
 },    
+    {
+  "id": "playbook-weekend-recovery-005a",
+  "title": "Weekend Recovery (Short Reset)",
+  "category": "Wellness",
+  "iconName": "🪷",
+  "description": "A quick 10-minute weekend ritual to release tension, stretch, and reflect on your week with calm gratitude.",
+  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/weekend-recovery-short.json"
+},
  {
   "id": "template-monthly-bill-checkup-001",
   "title": "Monthly Bill & Subscription Check-Up",
@@ -58,5 +66,6 @@
   "description": "Review your bills and subscriptions, spot unnecessary charges, and clean up your recurring expenses.",
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/monthly-bill-checkup.json"
 }   
+    
   ]
 }
