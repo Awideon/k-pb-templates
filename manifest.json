@@ -1,8 +1,13 @@
 {
-  "id": "template-mindful-morning-001",
-  "title": "Mindful Morning",
-  "category": "Routines",
-  "iconName": "🧘‍♀️",
-  "description": "A tailored routine to start your day with clarity, based on how you feel.",
-  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/routines/morning-routine.json"
+  "version": 1,
+  "templates": [
+    {
+      "id": "template-mindful-morning-001",
+      "title": "Mindful Morning",
+      "category": "Routines",
+      "iconName": "🧘‍♀️",
+      "description": "A tailored routine to start your day with clarity, based on how you feel.",
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/main/routines/mindful-morning.json"
+    }
+  ]
 }
