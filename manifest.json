@@ -26,6 +26,14 @@
   "description": "A quick, adaptive high-intensity workout that adjusts to your energy level for the day.",
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/hiit-energy-booster.json"
 },
+{
+  "id": "playbook-mindful-morning-002",
+  "title": "Mindful Morning Reset",
+  "category": "Wellness",
+  "iconName": "🌅",
+  "description": "A guided morning routine that adapts to your mood with breathing, stretching, and reflection to start your day grounded and focused.",
+  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/mindful-morning-reset.json"
+},
     {
   "id": "template-monthly-bill-checkup-001",
   "title": "Monthly Bill & Subscription Check-Up",
