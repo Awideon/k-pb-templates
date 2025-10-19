@@ -35,6 +35,14 @@
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/mindful-morning-reset.json"
 },
     {
+  "id": "playbook-sleep-winddown-003",
+  "title": "Sleep Wind-Down Routine",
+  "category": "Wellness",
+  "iconName": "🌙",
+  "description": "A calming, adaptive nighttime ritual that helps you release stress, stretch, and prepare for deep sleep.",
+  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/sleep-winddown-routine.json"
+},
+    {
   "id": "template-monthly-bill-checkup-001",
   "title": "Monthly Bill & Subscription Check-Up",
   "category": "Life Admin",
