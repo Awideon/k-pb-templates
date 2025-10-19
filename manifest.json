@@ -25,6 +25,14 @@
   "iconName": "💥",
   "description": "A quick, adaptive high-intensity workout that adjusts to your energy level for the day.",
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/hiit-energy-booster.json"
+},
+    {
+  "id": "template-monthly-bill-checkup-001",
+  "title": "Monthly Bill & Subscription Check-Up",
+  "category": "Life Admin",
+  "iconName": "💳",
+  "description": "Review your bills and subscriptions, spot unnecessary charges, and clean up your recurring expenses.",
+  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/monthly-bill-checkup.json"
 }
   ]
 }
