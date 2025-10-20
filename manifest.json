@@ -2,12 +2,67 @@
   "version": 1,
   "templates": [
     {
+      "id": "template-monthly-bill-checkup-001",
+      "title": "Monthly Bill & Subscription Check-Up",
+      "category": "Life Admin",
+      "iconName": "💳",
+      "description": "Review your bills and subscriptions, spot unnecessary charges, and clean up your recurring expenses.",
+      "isProTemplate": true,
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/monthly-bill-checkup.json"
+    },
+    {
       "id": "template-mindful-morning-001",
       "title": "Mindful Morning",
       "category": "Routines",
       "iconName": "🧘‍♀️",
       "description": "A tailored routine to start your day with clarity, based on how you feel.",
+      "isProTemplate": true,
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/routines/mindful-morning.json"
+    },
+    {
+      "id": "playbook-hiit-energy-001",
+      "title": "7-Minute HIIT Energy Booster",
+      "category": "Wellness",
+      "iconName": "💥",
+      "description": "A quick, adaptive high-intensity workout that adjusts to your energy level for the day.",
+      "isProTemplate": true,
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/hiit-energy-booster.json"
+    },
+    {
+      "id": "playbook-mindful-morning-002",
+      "title": "Mindful Morning Reset",
+      "category": "Wellness",
+      "iconName": "🌅",
+      "description": "A guided morning routine that adapts to your mood with breathing, stretching, and reflection to start your day grounded and focused.",
+      "isProTemplate": true,
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/mindful-morning-reset.json"
+    },
+    {
+      "id": "playbook-sleep-winddown-003",
+      "title": "Sleep Wind-Down Routine",
+      "category": "Wellness",
+      "iconName": "🌙",
+      "description": "A calming, adaptive nighttime ritual that helps you release stress, stretch, and prepare for deep sleep.",
+      "isProTemplate": true,
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/sleep-winddown-routine.json"
+    },
+    {
+      "id": "playbook-midday-recharge-004",
+      "title": "Midday Recharge Break",
+      "category": "Wellness",
+      "iconName": "🌤",
+      "description": "A quick midday reset to refresh your energy, posture, and focus in under 10 minutes — perfect for the afternoon slump.",
+      "isProTemplate": true,
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/midday-recharge-break.json"
+    },
+    {
+      "id": "playbook-weekend-recovery-005a",
+      "title": "Weekend Recovery (Short Reset)",
+      "category": "Wellness",
+      "iconName": "🪷",
+      "description": "A quick 10-minute weekend ritual to release tension, stretch, and reflect on your week with calm gratitude.",
+      "isProTemplate": false,
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/weekend-recovery-short.json"
     },
     {
       "id": "kyt-workflow-inbox-zero-v1",
@@ -17,55 +72,6 @@
       "description": "A guided, systematic process to clear your email inbox based on the GTD methodology.",
       "isProTemplate": true,
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
-    },    
-       {
-  "id": "playbook-hiit-energy-001",
-  "title": "7-Minute HIIT Energy Booster",
-  "category": "Wellness",
-  "iconName": "💥",
-  "description": "A quick, adaptive high-intensity workout that adjusts to your energy level for the day.",
-  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/hiit-energy-booster.json"
-}, 
-{
-  "id": "playbook-mindful-morning-002",
-  "title": "Mindful Morning Reset",
-  "category": "Wellness",
-  "iconName": "🌅",
-  "description": "A guided morning routine that adapts to your mood with breathing, stretching, and reflection to start your day grounded and focused.",
-  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/mindful-morning-reset.json"
-},
-    {
-  "id": "playbook-sleep-winddown-003",
-  "title": "Sleep Wind-Down Routine",
-  "category": "Wellness",
-  "iconName": "🌙",
-  "description": "A calming, adaptive nighttime ritual that helps you release stress, stretch, and prepare for deep sleep.",
-  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/sleep-winddown-routine.json"
-},
-{
-  "id": "playbook-midday-recharge-004",
-  "title": "Midday Recharge Break",
-  "category": "Wellness",
-  "iconName": "🌤",
-  "description": "A quick midday reset to refresh your energy, posture, and focus in under 10 minutes — perfect for the afternoon slump.",
-  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/midday-recharge-break.json"
-},    
-    {
-  "id": "playbook-weekend-recovery-005a",
-  "title": "Weekend Recovery (Short Reset)",
-  "category": "Wellness",
-  "iconName": "🪷",
-  "description": "A quick 10-minute weekend ritual to release tension, stretch, and reflect on your week with calm gratitude.",
-  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/weekend-recovery-short.json"
-},
- {
-  "id": "template-monthly-bill-checkup-001",
-  "title": "Monthly Bill & Subscription Check-Up",
-  "category": "Life Admin",
-  "iconName": "💳",
-  "description": "Review your bills and subscriptions, spot unnecessary charges, and clean up your recurring expenses.",
-  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/monthly-bill-checkup.json"
-}   
-    
+    }
   ]
 }
