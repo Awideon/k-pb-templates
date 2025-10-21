@@ -72,6 +72,15 @@
       "description": "A guided, systematic process to clear your email inbox based on the GTD methodology.",
       "isProTemplate": true,
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
-    }
+    },
+    {
+  "id": "template-hybrid-sequential-demo-001",
+  "title": "Hybrid Step Demo (Sequential)",
+  "category": "Workflows",
+  "iconName": "🧩",
+  "description": "A demo showing a Display Note followed by a Decision on the same screen.",
+  "isProTemplate": true,
+  "url": "https://raw.githubusercontent.com/YourUsername/kyt-playbook-templates/main/workflows/hybrid-sequential-demo.json"
+}
   ]
 }
