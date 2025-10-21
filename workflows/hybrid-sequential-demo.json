@@ -1,0 +1,22 @@
+{
+  "id": "hybrid-1",
+  "stepType": "hybrid",
+  "title": "Read & Decide",
+  "mode": "sequential",
+  "nextStepId": "PLAYBOOK_END_SUCCESS",
+  "stepA": {
+    "id": "hybrid-note",
+    "stepType": "displayNote",
+    "title": "Review the Policy",
+    "details": "The policy states that all requests must be submitted within 30 days."
+  },
+  "stepB": {
+    "id": "hybrid-decision",
+    "stepType": "decision",
+    "title": "Is the request valid?",
+    "options": [
+      { "label": "Yes, within 30 days", "nextStepId": "", "colorHex": "#2ECC71" },
+      { "label": "No, it is late", "nextStepId": "", "colorHex": "#E74C3C" }
+    ]
+  }
+}
