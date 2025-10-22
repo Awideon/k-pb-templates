@@ -63,7 +63,16 @@
       "description": "A quick 10-minute weekend ritual to release tension, stretch, and reflect on your week with calm gratitude.",
       "isProTemplate": false,
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/weekend-recovery-short.json"
-    },
+    }, 
+    {
+      "id": "playbook-weekend-mini-reset-005a",
+      "title": "Weekend Mini Reset",
+      "category": "Wellness",
+      "iconName": "🍃",
+      "description": "A short, mindful routine to help you let go of the work week and ease into your weekend.",
+      "isProTemplate": true,
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/wellness/weekend-mini-reset.json"
+},
     {
       "id": "kyt-workflow-inbox-zero-v1",
       "title": "The Inbox Zero Workflow",
@@ -82,14 +91,6 @@
   "isProTemplate": true,
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
 },
-    {
-  "id": "playbook-weekend-mini-reset-005a",
-  "title": "Weekend Mini Reset",
-  "category": "Wellness",
-  "iconName": "🍃",
-  "description": "A short, mindful routine to help you let go of the work week and ease into your weekend.",
-  "isProTemplate": true,
-  "url": "https://raw.githubusercontent.com/YourUsername/kyt-playbook-templates/main/wellness/weekend-mini-reset.json"
-}
+  
   ]
 }
