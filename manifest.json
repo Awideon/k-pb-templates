@@ -81,6 +81,15 @@
   "description": "A demo showing a Display Note followed by a Decision on the same screen.",
   "isProTemplate": true,
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
+},
+    {
+  "id": "playbook-weekend-mini-reset-005a",
+  "title": "Weekend Mini Reset",
+  "category": "Wellness",
+  "iconName": "🍃",
+  "description": "A short, mindful routine to help you let go of the work week and ease into your weekend.",
+  "isProTemplate": true,
+  "url": "https://raw.githubusercontent.com/YourUsername/kyt-playbook-templates/main/wellness/weekend-mini-reset.json"
 }
   ]
 }
