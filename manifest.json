@@ -9,8 +9,17 @@
       "description": "Audit your recurring bills, track payments, and cancel unused subscriptions in minutes.",
       "isProTemplate": true,
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/monthly-bill-checkup.json"
-     },
-     {
+    },
+    {
+      "id": "template-digital-declutter-smart-001",
+      "title": "Digital Declutter+ (Smart Adaptive Edition)",
+      "category": "Life Admin",
+      "iconName": "🧹",
+      "description": "An adaptive digital declutter that adjusts to your energy and focus. Reflect, track progress, and choose how deep to go in reclaiming your digital calm.",
+      "isProTemplate": false,
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/digital-declutter-smart.json"
+    },
+    {
       "id": "template-mindful-morning-001",
       "title": "Mindful Morning",
       "category": "Routines",
