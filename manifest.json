@@ -20,6 +20,15 @@
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/digital-declutter-smart.json"
     },
     {
+      "id": "template-difficult-conversation-001",
+      "title": "Difficult Conversation Preparation+ (Adaptive Coaching Edition)",
+      "category": "Life Admin",
+      "iconName": "💬",
+      "description": "Prepare for tough talks with calm, clarity, and confidence. This adaptive playbook coaches you through emotions, tone, and timing — guiding you to your best outcome.",
+      "isProTemplate": false,
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/difficult-conversation-prep.json"
+    },
+    {
       "id": "template-mindful-morning-001",
       "title": "Mindful Morning",
       "category": "Routines",
