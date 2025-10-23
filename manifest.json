@@ -38,6 +38,15 @@
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/life-alignment-check-pro.json"
     },
     {
+      "id": "template-life-alignment-check-001",
+      "title": "Monthly Life Alignment Check",
+      "category": "Life Admin",
+      "iconName": "🧭",
+      "description": "An advanced monthly self-review to evaluate your energy, priorities, and goals — designed to help you realign with what matters most.",
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/monthly-life-alignment-check.json",
+      "isProTemplate": true
+    },
+    {
       "id": "template-mindful-morning-001",
       "title": "Mindful Morning",
       "category": "Routines",
