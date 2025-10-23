@@ -29,6 +29,15 @@
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/difficult-conversation-prep.json"
     },
     {
+      "id": "template-life-alignment-check-pro-001",
+      "title": "Monthly Life Alignment Check+ (Reflective Pro Edition)",
+      "category": "Life Admin",
+      "iconName": "🧭",
+      "description": "A deep monthly reflection that evaluates your energy, goals, and balance across key areas of life — exclusive for Pro members.",
+      "isProTemplate": true,
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/life-alignment-check-pro.json"
+    },
+    {
       "id": "template-mindful-morning-001",
       "title": "Mindful Morning",
       "category": "Routines",
