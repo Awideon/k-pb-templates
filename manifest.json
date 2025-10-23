@@ -90,7 +90,7 @@
   "description": "A demo showing a Display Note followed by a Decision on the same screen.",
   "isProTemplate": true,
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
-},
+}
     
   ]
 }
