@@ -2,15 +2,15 @@
   "version": 1,
   "templates": [
     {
-      "id": "template-monthly-bill-checkup-001",
+      "id": "life-admin-monthly-bill-checkup-v1",
       "title": "Monthly Bill & Subscription Check-Up",
       "category": "Life Admin",
-      "iconName": "💳",
-      "description": "Review your bills and subscriptions, spot unnecessary charges, and clean up your recurring expenses.",
+      "iconName": "💰",
+      "description": "Audit your recurring bills, track payments, and cancel unused subscriptions in minutes.",
       "isProTemplate": true,
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/life-admin/monthly-bill-checkup.json"
-    },
-    {
+     },
+     {
       "id": "template-mindful-morning-001",
       "title": "Mindful Morning",
       "category": "Routines",
@@ -91,6 +91,6 @@
   "isProTemplate": true,
   "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
 },
-  
+    
   ]
 }
