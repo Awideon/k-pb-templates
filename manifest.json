@@ -119,14 +119,22 @@
       "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
     },
     {
-  "id": "template-hybrid-sequential-demo-001",
-  "title": "Hybrid Step Demo (Sequential)",
-  "category": "Workflows",
-  "iconName": "🧩",
-  "description": "A demo showing a Display Note followed by a Decision on the same screen.",
-  "isProTemplate": true,
-  "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
-}
-    
+     "id": "template-hybrid-sequential-demo-001",
+     "title": "Hybrid Step Demo (Sequential)",
+     "category": "Workflows",
+     "iconName": "🧩",
+     "description": "A demo showing a Display Note followed by a Decision on the same screen.",
+     "isProTemplate": true,
+     "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/inbox_zero_workflow.json"
+    },
+    {
+      "id": "workflow-pre-meeting-briefing-001",
+      "title": "Pre-Meeting Briefing",
+      "category": "Workflows",
+      "iconName": "🤝",
+      "description": "Ensure you are focused, informed, and ready for any important meeting with this guided checklist and knowledge check.",
+      "isProTemplate": true,
+      "url": "https://raw.githubusercontent.com/Awideon/k-pb-templates/refs/heads/main/workflows/pre-meeting-briefing.json"
+    }
   ]
 }
