@@ -116,7 +116,7 @@
       "title": "Join the Meeting",
       "details": "Opening your calendar to join the meeting.",
       "appName": "Calendar",
-      "urlScheme": "calshow://",
+      "urlScheme": "https://calendar.google.com",
       "nextStepId": "PLAYBOOK_END_SUCCESS"
     }
   ],
