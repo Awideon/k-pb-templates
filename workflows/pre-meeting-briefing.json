@@ -46,8 +46,8 @@
     {
       "id": "step-knowledge-check",
       "stepType": "question",
-      "title": "Knowledge Check",
-      "details": "Let's confirm the primary objective of this meeting.",
+      "title": "Knowledge Check: Primary Objective",
+      "details": "What is the primary objective of this meeting?",
       "questionType": "multipleChoice",
       "options": [
         { "id": "q1-opt1", "text": "To give a general status update.", "isCorrect": false },
@@ -56,7 +56,8 @@
       ],
       "explanation": "The pre-reading stated that the goal is to finalize the Q3 budget.",
       "allowRetry": true,
-      "onCorrectNextStepId": "step-final-focus",
+      "shuffleOptions": false,
+      "onCorrectNextStepId": "step-stakeholder-check",
       "onIncorrectNextStepId": "step-remediation"
     },
     {
@@ -64,7 +65,40 @@
       "stepType": "displayNote",
       "title": "Quick Refocus",
       "details": "It seems there might be a misunderstanding of the meeting's goal. Please take a moment to re-read the agenda to ensure your contributions are on point. The primary objective is to finalize the Q3 budget.",
-      "nextStepId": "step-final-focus"
+      "nextStepId": "step-stakeholder-check"
+    },
+    {
+      "id": "step-stakeholder-check",
+      "stepType": "question",
+      "title": "Knowledge Check: Stakeholders",
+      "details": "Select ALL attendees who are key decision-makers for this topic.",
+      "questionType": "multipleSelect",
+      "options": [
+        { "id": "q2-opt1", "text": "Sarah (Product Lead)", "isCorrect": true },
+        { "id": "q2-opt2", "text": "David (Engineering Manager)", "isCorrect": true },
+        { "id": "q2-opt3", "text": "Michael (Intern)", "isCorrect": false },
+        { "id": "q2-opt4", "text": "Jessica (Sales, observer only)", "isCorrect": false }
+      ],
+      "explanation": "Sarah is the product owner, and David leads the implementation team, making them both key decision-makers.",
+      "allowRetry": false,
+      "shuffleOptions": true,
+      "onCorrectNextStepId": "step-project-code-name",
+      "onIncorrectNextStepId": "step-project-code-name"
+    },
+    {
+      "id": "step-project-code-name",
+      "stepType": "question",
+      "title": "Confirm Project Codename",
+      "details": "As mentioned in the briefing doc, what is the official codename for this project?",
+      "questionType": "openEnded",
+      "options": [
+        { "id": "q3-opt1", "text": "Project Phoenix", "isCorrect": true }
+      ],
+      "explanation": "The project was codenamed 'Project Phoenix' in the Q2 kickoff meeting.",
+      "allowRetry": true,
+      "shuffleOptions": false,
+      "onCorrectNextStepId": "step-final-focus",
+      "onIncorrectNextStepId": "step-final-focus"
     },
     {
       "id": "step-final-focus",
